@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recource/background.jpg</file>
+        <file>recource/36.jpg</file>
+        <file>recource/timg.jpg</file>
+        <file>recource/bullet.png</file>
+        <file>recource/blank.png</file>
+        <file>recource/background-big.jpg</file>
+        <file>recource/bomb-1.png</file>
+        <file>recource/bomb-2.png</file>
+        <file>recource/bomb-3.png</file>
+        <file>recource/bomb-4.png</file>
+        <file>recource/bomb-5.png</file>
+        <file>recource/bomb-6.png</file>
+        <file>recource/plane1.png</file>
+        <file>recource/plane2.png</file>
+        <file>recource/enemy.png</file>
+    </qresource>
+</RCC>

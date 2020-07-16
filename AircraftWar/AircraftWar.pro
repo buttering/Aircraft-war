@@ -24,6 +24,22 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    background.cpp \
+    plane.cpp \
+    enemyplane.cpp \
+    bullet.cpp \
+    bomb.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    background.h \
+    config.h \
+    plane.h \
+    bullet.h \
+    enemyplane.h \
+    bomb.h
+
+RESOURCES += \
+    res.qrc
+
+
